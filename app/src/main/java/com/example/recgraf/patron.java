@@ -17,6 +17,8 @@ import java.util.List;
 
 import io.paperdb.Paper;
 
+
+
 public class patron extends AppCompatActivity {
     //Se crean dos variables para guardar y comparar la contraseña
         String save_pattern_key = "pattern codigo";
